@@ -1,0 +1,26 @@
+{
+  "name": "jsoneditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "momentjs": "^2.0.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahadianwibawandika/jsoneditor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahadianwibawandika/jsoneditor/issues"
+  },
+  "homepage": "https://github.com/rahadianwibawandika/jsoneditor#readme"
+}
